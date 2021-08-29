@@ -1,9 +1,27 @@
 #EXTM3U
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",24 KITCHEN
-http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53792?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT M HD
 http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53951?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART CHANNEL HD
-http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53774?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 1 HD
-http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53746?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTK 2
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/54007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",24 KITCHEN
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53792?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTV21
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/54003?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTV21 HD
+http://bestott.net:80/juk25mk1027/4796F1A24AF8AA8/54002?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",KLAN KOSOVA HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/54000?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV DUKAGJINI
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",KLAN 4K
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53952?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TOP CHANNEL 4K
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53954?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTV21 POPULLORE
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/53950?checkedby:iptvcat.com
